@@ -12,7 +12,7 @@
 	<artifactId>gitpoddemo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gitpoddemo-backend</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo_project_for_Spring_Boot</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>
@@ -25,8 +25,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
-		<dependency>central: nodename nor servname provided, or not known
+		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
